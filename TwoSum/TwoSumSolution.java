@@ -10,7 +10,7 @@ class TwoSumSolution {
         if(complementsIndex != null){
             return new int[]{i, complementsIndex};
         }
-        indecesToComps.put(target - nums[i]. i);
+        indecesToComps.put(target - nums[i], i);
     }
     return nums;
 
