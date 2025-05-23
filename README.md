@@ -1,2 +1,3 @@
 # LeetCodeBlind75
-My Leetcode solutions to the problem set Blind 75 
+My first attempt at leetcode questions. I follow a guide for most of these solutions. I want to get better and have a way to track progress. 
+
